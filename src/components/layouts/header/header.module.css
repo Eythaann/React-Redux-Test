@@ -1,0 +1,17 @@
+.header {
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 0 8px #666;
+  height: 50px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  margin: 0 1rem;
+}
